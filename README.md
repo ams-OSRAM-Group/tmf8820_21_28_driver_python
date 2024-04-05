@@ -1,6 +1,6 @@
 # TMF8828 (Time-of-flight) python driver and application programs
 
-This TMF8828 python driver package is intended to show the capabilies of this time-of-flight device. 
+This TMF8828 python driver package is intended to show the capabilies of this time-of-flight device. You can also use this driver with TMF8820/TMF8821 with a limited set of operation modes (e.g. no 8x8 measurement zones).
 
 ## Requirements  
 
